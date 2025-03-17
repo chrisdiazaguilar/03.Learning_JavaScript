@@ -12,7 +12,7 @@ if (hasDriversLicense) console.log('I can drive :D');
 //This are reserve word for future features under the use strict
 //const interface = 'Audio';
 //const private = 534;
-*/
+
 
 // Lesson 33. Functions
 
@@ -47,3 +47,23 @@ const appleOrangeJuice = fruitProcessor(2,4);
 console.log(appleOrangeJuice);
 
 const num = Number('23');
+
+*/
+ /*
+//Function declaration
+function calcAge1(birthYeah) {
+    return 2037 - birthYeah;
+}
+
+const age1 = calcAge(1991);
+console.log(age1);
+
+//Function expression
+const calcAge2 = function (birthYeah) {
+    return 2031 - birthYeah;
+}
+
+const age2 = calcAge2(1991);
+
+console.log(age1, age2);
+*/
