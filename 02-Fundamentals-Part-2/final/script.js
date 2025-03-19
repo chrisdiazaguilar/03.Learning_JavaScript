@@ -501,7 +501,7 @@ const jonas = [
   true
 ];
 
-// 0, 1, ..., 4
+// 0, 1, ..., 4console.log(`${firstName} has already retired`);
 // 4, 3, ..., 0
 
 for (let i = jonas.length - 1; i >= 0; i--) {
